@@ -22,11 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=habib-dev7904&show_icons=true&theme=tokyonight)
-
----
-
 ## 📫 Contact Me
 - Email: habibmoh7904@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/habib-m-065628385/
