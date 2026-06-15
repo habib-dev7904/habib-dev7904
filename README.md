@@ -1,7 +1,7 @@
 # Hi 👋, I'm Habib Mohammed
 
 🚀 Frontend Developer | 💻 Web Development Intern  
-🌱 Currently learning: HTML, CSS, JavaScript  
+🌱 Skills: HTML, CSS, JavaScript  
 🎯 Goal: Become a Full Stack Developer  
 📍 Based in Ethiopia  
 
@@ -17,7 +17,8 @@
 ## 🛠️ Skills
 - HTML5  
 - CSS3  
-- JavaScript (learning)  
+- JavaScript
+- React.js
 - Git & GitHub  
 
 ---
