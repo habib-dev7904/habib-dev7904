@@ -1,32 +1,88 @@
-# Hi 👋, I'm Habib Mohammed
+# 👋 Hi, I'm Habib Mohammed
 
-🚀 Frontend Developer | 💻 Web Development Intern  
-🌱 Skills: HTML, CSS, JavaScript  
-🎯 Goal: Become a Full Stack Developer  
-📍 Based in Ethiopia  
+🚀 Full Stack Developer
 
----
-
-## 💡 About Me
-- I love building clean and responsive websites  
-- I enjoy learning new technologies  
-- I am currently working on internship projects  
+I build modern, responsive, and scalable web applications using the latest technologies.
 
 ---
 
-## 🛠️ Skills
-- HTML5  
-- CSS3  
-- JavaScript
-- React.js
-- Git & GitHub  
+## 👨‍💻 About Me
+
+I'm **Habib Mohammed**, a Full Stack Developer passionate about creating beautiful user interfaces, powerful backend systems, and AI-powered applications.
+
+I enjoy learning new technologies, solving problems, and turning ideas into real-world products.
 
 ---
 
-## 📫 Contact Me
-- Email: habibmoh7904@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/habib-m-065628385/
+## 🛠️ My Skills
+
+### Frontend
+⚡ Next.js  
+⚛️ React.js  
+📘 TypeScript  
+🟨 JavaScript  
+🎨 Tailwind CSS  
+🌐 HTML & CSS  
+
+### Backend
+🟢 Node.js  
+🚂 Express.js  
+🔗 REST APIs  
+
+### Database
+🍃 MongoDB  
+⚡ Supabase  
+🐬 MySQL  
+
+### Tools
+🔧 Git & GitHub  
+▲ Vercel  
+💻 VS Code  
+
+### AI
+🤖 AI API Integration  
+🧠 AI Application Development  
 
 ---
 
-⭐ “Keep building, keep improving”
+## 🚀 My Projects
+
+### 🤖 PrepWise AI Planner
+AI-powered study planner that creates personalized learning plans.
+
+**Tech:** Next.js • Supabase • AI API
+
+
+### 🌐 Social Media Platform
+Full-stack social platform with authentication, posts, likes, and interactions.
+
+**Tech:** React • Node.js • Express • Database
+
+
+### 💼 Portfolio Website
+Modern animated portfolio to showcase my skills and experience.
+
+**Tech:** Next.js • TypeScript • Tailwind CSS • Framer Motion
+
+
+---
+
+## 💼 Experience
+
+### Frontend Developer Intern
+**Decodlabs**  
+📅 Apr 2026 - May 2026
+
+
+### Full Stack Developer Intern
+**CodeAlpha**  
+📅 Jun 2026 - Present
+
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/habib-m-065628385
+
+Portfolio: https://habib-official-portfolio.vercel.app/
