@@ -53,12 +53,6 @@ AI-powered study planner that creates personalized learning plans.
 **Tech:** Next.js • Supabase • AI API
 
 
-### 🌐 Social Media Platform
-Full-stack social platform with authentication, posts, likes, and interactions.
-
-**Tech:** React • Node.js • Express • Database
-
-
 ### 💼 Portfolio Website
 Modern animated portfolio to showcase my skills and experience.
 
